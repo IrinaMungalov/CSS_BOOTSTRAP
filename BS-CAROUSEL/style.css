@@ -1,0 +1,16 @@
+body {
+    background-color: #222;
+    color: white;
+}
+
+#newsCarousel .carousel-control-prev {
+    left: auto !important;
+    right: 5%;
+    top: 85%;
+    width: 3%;
+}
+#newsCarousel .carousel-control-next {
+    right: 1.5%;
+    top: 85%;
+    width: 3%;
+}
